@@ -1,0 +1,182 @@
+[
+    {
+        "id": "juegossimulacion-01",
+        "titulo": "Los Sims 4",
+        "imagen": "img/juegossimulacion/01.jpg",
+        "categoria": {
+            "nombre": "Simulacion",
+            "id": "simulacion"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "juegossimulacion-02",
+        "titulo": "Los Sims 4",
+        "imagen": "img/juegossimulacion/02.jpg",
+        "categoria": {
+            "nombre": "Simulacion",
+            "id": "simulacion"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "juegossimulacion-03",
+        "titulo": "Los Sims 4",
+        "imagen": "img/juegossimulacion/03.jpg",
+        "categoria": {
+            "nombre": "Simulacion",
+            "id": "simulacion"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "juegossimulacion-04",
+        "titulo": "Los Sims 4",
+        "imagen": "img/juegossimulacion/04.jpg",
+        "categoria": {
+            "nombre": "Simulacion",
+            "id": "simulacion"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "juegossimulacion-05",
+        "titulo": "Los Sims 4",
+        "imagen": "img/juegossimulacion/05.jpg",
+        "categoria": {
+            "nombre": "Simulacion",
+            "id": "simulacion"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "juegossimulacion-06",
+        "titulo": "Los Sims 4",
+        "imagen": "img/juegossimulacion/06.jpg",
+        "categoria": {
+            "nombre": "Simulacion",
+            "id": "simulacion"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "juegosaccion-01",
+        "titulo": "Acción 01",
+        "imagen": "img/juegosaccion/01.jpg",
+        "categoria": {
+            "nombre": "Accion",
+            "id": "accion"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "juegosaccion-02",
+        "titulo": "Acción 02",
+        "imagen": "img/juegosaccion/02.jpg",
+        "categoria": {
+            "nombre": "Accion",
+            "id": "accion"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "juegosaccion-03",
+        "titulo": "Acción 03",
+        "imagen": "img/juegosaccion/03.jpg",
+        "categoria": {
+            "nombre": "Accion",
+            "id": "accion"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "juegosaccion-04",
+        "titulo": "Acción 04",
+        "imagen": "img/juegosaccion/04.jpg",
+        "categoria": {
+            "nombre": "Accion",
+            "id": "accion"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "juegosaccion-05",
+        "titulo": "Acción 05",
+        "imagen": "img/juegosaccion/05.jpg",
+        "categoria": {
+            "nombre": "Accion",
+            "id": "accion"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "juegosaccion-06",
+        "titulo": "Acción 06",
+        "imagen": "img/juegosaccion/06.jpg",
+        "categoria": {
+            "nombre": "Accion",
+            "id": "accion"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "juegoscarrera-01",
+        "titulo": "NFS",
+        "imagen": "img/juegoscarrera/01.jpg",
+        "categoria": {
+            "nombre": "Carrera",
+            "id": "carrera"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "juegoscarrera-02",
+        "titulo": "NFS",
+        "imagen": "img/juegoscarrera/02.jpg",
+        "categoria": {
+            "nombre": "Carrera",
+            "id": "carrera"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "juegoscarrera-03",
+        "titulo": "NFS",
+        "imagen": "img/juegoscarrera/03.jpg",
+        "categoria": {
+            "nombre": "Carrera",
+            "id": "carrera"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "juegoscarrera-04",
+        "titulo": "NFS",
+        "imagen": "img/juegoscarrera/04.jpg",
+        "categoria": {
+            "nombre": "Carrera",
+            "id": "carrera"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "juegoscarrera-05",
+        "titulo": "NFS",
+        "imagen": "img/juegoscarrera/05.jpg",
+        "categoria": {
+            "nombre": "Carrera",
+            "id": "carrera"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "juegoscarrera-06",
+        "titulo": "NFS",
+        "imagen": "img/juegoscarrera/06.jpg",
+        "categoria": {
+            "nombre": "Carrera",
+            "id": "carrera"
+        },
+        "precio": 1000
+    }
+]
